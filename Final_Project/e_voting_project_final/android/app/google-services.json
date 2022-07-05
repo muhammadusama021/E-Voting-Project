@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "332799740321",
+    "project_id": "myflutterauth-e56ae",
+    "storage_bucket": "myflutterauth-e56ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332799740321:android:9bbe6c5df04208a1db63e0",
+        "android_client_info": {
+          "package_name": "com.example.e_voting_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332799740321-8n14mq0tm2pfbip648gfvctl708jqc00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLJRWCzTz6SVx96op35V70za61cdnm4Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332799740321-8n14mq0tm2pfbip648gfvctl708jqc00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332799740321:android:b54766389fe31b28db63e0",
+        "android_client_info": {
+          "package_name": "com.example.e_voting_project_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332799740321-8n14mq0tm2pfbip648gfvctl708jqc00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLJRWCzTz6SVx96op35V70za61cdnm4Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332799740321-8n14mq0tm2pfbip648gfvctl708jqc00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332799740321:android:d92b169db6191659db63e0",
+        "android_client_info": {
+          "package_name": "com.example.voting_app_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332799740321-8n14mq0tm2pfbip648gfvctl708jqc00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLJRWCzTz6SVx96op35V70za61cdnm4Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332799740321-8n14mq0tm2pfbip648gfvctl708jqc00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
